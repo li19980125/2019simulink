@@ -1,0 +1,13 @@
+\BOOKMARK [0][-]{title.0}{封面}{}% 1
+\BOOKMARK [0][-]{chapter*.1}{摘要}{}% 2
+\BOOKMARK [0][-]{toc.0}{目录}{}% 3
+\BOOKMARK [0][-]{chapter.1}{基于simulink的PID半经验法参数整定}{}% 4
+\BOOKMARK [1][-]{section.1.1}{半经验法概述}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{临界比例度法}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{衰减曲线法}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{整定结果的分析和改进}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{基于simulink的三容水箱液位控制仿真}{}% 9
+\BOOKMARK [1][-]{section.2.1}{对于三容水箱系统的机理建模}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{基于simulink的三容水箱液位控制仿真}{chapter.2}% 11
+\BOOKMARK [0][-]{section*.16}{参考文献}{}% 12
+\BOOKMARK [0][-]{chapter*.18}{致谢}{}% 13
